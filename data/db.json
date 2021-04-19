@@ -1,0 +1,46 @@
+{
+  "blogs": [
+    {
+      "title": "My First Blog",
+      "body": "Why do we use it?\nIt is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.",
+      "author": "mario",
+      "id": 1
+    },
+    {
+      "title": "Opening Party!",
+      "body": "Why do we use it?\nIt is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.",
+      "author": "yoshi",
+      "id": 2
+    },
+    {
+      "title": "Where To This Week",
+      "body": "I am going to visit and pray at the Open Heavens International Centre at the Redemption Camp in Jesus loving Name. Amen",
+      "author": "mario",
+      "id": 3
+    },
+    {
+      "title": "Where I Am Learning",
+      "body": "I am learning React with the help of The Net Ninja on his YouTube channel. Thank you Sir Shaun",
+      "author": "yoshi",
+      "id": 4
+    },
+    {
+      "title": "hello ninjas, again",
+      "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed eget nulla eros. Aliquam euismod fringilla massa a pharetra. Curabitur tincidunt euismod egestas.",
+      "author": "yoshi",
+      "id": 5
+    },
+    {
+      "title": "test101",
+      "body": "This is test one hundred and one. You can pronounce it as 'test one-oh-one'",
+      "author": "yoshi",
+      "id": 6
+    },
+    {
+      "title": "test102",
+      "body": "This is test one hundred and two. You can pronounce it as 'test one-oh-two'",
+      "author": "yoshi",
+      "id": 7
+    }
+  ]
+}
